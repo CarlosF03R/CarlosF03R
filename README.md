@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @CarlosF03R
-- 👀 I’m interested in learning programming languages.
+- 👋 Hello, I’m @CarlosF03R
+- 👀 I’m learning programming languages.
 - 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on project.
 - 📫 How to reach me carlitoss.flores32@gmail.com | (442)-231-6468
 
 <!---
