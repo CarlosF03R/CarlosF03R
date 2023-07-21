@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @CarlosF03R
-- 👀 I’m learning programming languages.
-- 🌱 I’m currently learning C++.
+- 👀 I’m learning programming languages and Autodesk Fusion 360.
+- 🌱 I’m currently learning C++ with Arduino IDE.
 - 📫 How to reach me carlitoss.flores32@gmail.com | (442)-231-6468
 
 <!---
